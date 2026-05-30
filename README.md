@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Saubhagya 👋
 
-<!--
-**saubhagya-analyst/saubhagya-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA Student  
+🏥 HR Intern at Apollo Hospitals  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📚 Currently Learning
+- Google Data Analytics Professional Certificate
+- Python for Data Analytics
+
+---
+
+## 🎯 Career Goals
+- Build real-world analytics projects
+- Gain internship experience
+- Become a Business/Data Analyst
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/saubhagya-priyadarsan-jena-95165640b/
+
+---
+
+## 📍 Location
+Odisha, India
